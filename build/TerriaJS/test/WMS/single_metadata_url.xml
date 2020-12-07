@@ -3,7 +3,7 @@
     <Service>
         <Name>OGC:WMS</Name>
         <Title>wms Server</Title>
-        <Abstract>web map service foo bar test</Abstract>
+        <Abstract></Abstract>
         <KeywordList>
 
             <Keyword></Keyword>
@@ -27,8 +27,6 @@
             <ContactVoiceTelephone></ContactVoiceTelephone>
             <ContactElectronicMailAddress></ContactElectronicMailAddress>
         </ContactInformation>
-        <Fees>test</Fees>
-        <AccessConstraints>test</AccessConstraints> 
     </Service>
     <Capability>
         <Request>
@@ -88,7 +86,7 @@
             <Layer opaque="0" queryable="1">
                 <Name>single_period</Name>
                 <Title>average_data</Title>
-                <Abstract>description foo bar baz</Abstract>
+                <Abstract></Abstract>
                 <SRS>EPSG:3857</SRS>
                 <LatLonBoundingBox maxx="46.3841552734" maxy="-123.29158783" minx="46.0292739868" miny="-124.177688599" />
                 <BoundingBox SRS="EPSG:4326" maxx="46.3841552734" maxy="-123.29158783" minx="46.0292739868" miny="-124.177688599" />
